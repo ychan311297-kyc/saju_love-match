@@ -17,13 +17,9 @@
 
 **Love Match**
 
-👉 https://winteryen2.github.io/saju-love-match/
+👉 https://ychan311297-kyc.github.io/saju-love-match/
 
 ---
-
-**GitHub Repository**
-
-👉 https://github.com/winteryen2/saju-love-match
 
 
 ## ✨ 주요 기능
@@ -50,7 +46,7 @@
 `YYYYMMDD` 형식의 8자리 숫자를 입력합니다.
 
 ```text
-19921014
+19971231
 ```
 
 입력값을 이용해 다음을 계산합니다.
