@@ -17,13 +17,10 @@
 
 **Love Match**
 
-👉 https://winteryen2.github.io/saju-love-match/
+👉 https://ychan311297-kyc.github.io/saju-love-match/
 
 ---
 
-**GitHub Repository**
-
-👉 https://github.com/winteryen2/saju-love-match
 
 
 ## ✨ 주요 기능
