@@ -17,7 +17,7 @@
 
 **Love Match**
 
-👉 https://ychan311297-kyc.github.io/saju-love-match/
+👉 https://ychan311297-kyc.github.io/saju_love-match/
 
 ---
 
